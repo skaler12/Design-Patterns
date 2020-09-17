@@ -1,16 +1,16 @@
 # Design-Patterns
 
-##There are examples concering design patterns in Java. 
+## There are examples concering design patterns in Java. 
 
-#Creactional 
+# Creactional 
 - Singleton 
 - Builder
 - Factory 
 
-#Structural
+# Structural
 - Decorator 
 - Fasade 
 
-#Behavioral
+# Behavioral
 - Observer
 - Strategy 
