@@ -1,5 +1,5 @@
 package singleton;
-//WZORZEC ANTYWZORZEC KREACYJNY 
+//WZORZEC ANTYWZORZEC KREACYJNY
 //Singleton to po prostu zainicjalizowanie instancji danej klasy dokladnie 1 raz, zawsze odwolujemy si do tej samej instancji
 //tworzymy pole ,ktore to jest stworzeniem nowej instancji klasy oraz prywatny konstruktor
 //opcjonalnie tworzymi publiczne metode getInstancje, ktora zwraca wspomniana jedyną instancje klasy .
